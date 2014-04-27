@@ -20,4 +20,5 @@ Add Activities and subject to Data Frame Column bind C and E ->FG
 Appy ddply to FG to  divide by subject by Activity
 Finally. 
 Replace names of activities 
+
 ===================
